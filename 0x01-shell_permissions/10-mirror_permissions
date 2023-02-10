@@ -1,2 +1,2 @@
 #!/bin/bash
-chmon --refernce=olleh hello
+chmod --reference=olleh hello
